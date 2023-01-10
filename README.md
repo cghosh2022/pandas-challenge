@@ -1,7 +1,7 @@
 # pandas-challenge
 Module 4 Challenge
 
-Created a new repository for this project called pandas-challenge. Then cloned the new repository to your computer.
+Created a new repository for this project called pandas-challenge. Then cloned the new repository to the terminal.
 
 Create a folder PyCitySchools. Used Pandas and Jupyter Notebook for this assignment. After analysis created a detailed report including a written description of at least two observable trends based on the data.
 

@@ -1,12 +1,12 @@
 # pandas-challenge
 Module 4 Challenge
 
-Created a new repository for this project called pandas-challenge. Then cloned the new repository to your computer.
+Created a new repository for this project called pandas-challenge. Then cloned the new repository to the terminal.
 
-Create a folder PyCitySchools. Used Pandas and Jupyter Notebook for this assignment. After analysis created a detailed report including a written description of at least two observable trends based on the data.
+Created a folder PyCitySchools. Used Pandas and Jupyter Notebook for this assignment. After analysis created a detailed report including a written description of at least two observable trends based on the data.
 
 District Summary -
-Performed  the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame which included the following:
+Performed  the necessary calculations and then created a high-level snapshot of the district's key metrics in a DataFrame which included the following:
 Total number of unique schools
 Total students
 Total budget
@@ -33,7 +33,7 @@ Highest-Performing Schools (by % Overall Passing)
 Sorted the schools by % Overall Passing in descending order and displayed the top 5 rows. Then saved the results in a DataFrame called "top_schools".
 
 Lowest-Performing Schools (by % Overall Passing)
-Sorted the schools by % Overall Passing in ascending order and display the top 5 rows. Saved the results in a DataFrame called "bottom_schools".
+Sorted the schools by % Overall Passing in ascending order and displayed the top 5 rows. Saved the results in a DataFrame called "bottom_schools".
 
 Math Scores by Grade
 Created a DataFrame that lists the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
